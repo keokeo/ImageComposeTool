@@ -1,7 +1,0 @@
-D:\Development\Supplemental\ImageComposeTool\bin\Debug\ImageComposeTool.exe.config
-D:\Development\Supplemental\ImageComposeTool\bin\Debug\ImageComposeTool.exe
-D:\Development\Supplemental\ImageComposeTool\bin\Debug\ImageComposeTool.pdb
-D:\Development\Supplemental\ImageComposeTool\obj\Debug\ImageComposeTool.csproj.CoreCompileInputs.cache
-D:\Development\Supplemental\ImageComposeTool\obj\Debug\ImageComposeTool.exe
-D:\Development\Supplemental\ImageComposeTool\obj\Debug\ImageComposeTool.pdb
-D:\Development\Supplemental\ImageComposeTool\obj\Debug\ImageComposeTool.csproj.AssemblyReference.cache
